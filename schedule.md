@@ -2,7 +2,7 @@
 ## Course schedule
 
 **01. Introduction and course organization**
-[Slides](/web-causal-inference/_slides/01Introduction and course organization.pdf)
+[Slides]({{ site.baseurl }}/_slides/01Introduction and course organization.pdf)
 
 **02. Statistical relations and their interpretation**
 *Readings**: PGJ, Ch. 1.1–1.3.10.  

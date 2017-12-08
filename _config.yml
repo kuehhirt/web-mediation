@@ -1,3 +1,4 @@
 title: [Introduction to causal inference]
 description: [Course website]
 theme: jekyll-theme-minimal
+baseurl: /web-causal-inference
