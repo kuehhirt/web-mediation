@@ -10,7 +10,8 @@ DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor
 Causal inference book by Miguel Hernán and James Robins  
 <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>
 
-Causal mediation analysis by Tyler VanderWeele  <https://www.hsph.harvard.edu/tyler-vanderweele/tools-and-tutorials/>
+Causal mediation analysis by Tyler VanderWeele  
+<https://www.hsph.harvard.edu/tyler-vanderweele/tools-and-tutorials/>
 
 Introduction to causal inference by Maya Petersen and Laura Balzer  
 <http://www.ucbbiostat.com/>
