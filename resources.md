@@ -1,7 +1,7 @@
 
 ## Resources
 
-**Course materials and lab submission on Ilias**  
+**Course materials and lab submission on Ilias**   
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
 
 **Q&A on Piazza**  
@@ -9,7 +9,7 @@
 
 
 #### Other resources
-Causal Diagrams: Draw Your Assumptions Before Your Conclusions by Miguel Hernán  
+Causal Diagrams: Draw Your Assumptions Before Your Conclusions by Miguel Hernán   
 <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
 
 DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor  
