@@ -5,11 +5,11 @@ The course has three broad goals, which I enumerate below. Each goal is associat
 
 1. formalize a research question about causal relations using causal graphs and counterfactuals. This includes
    * translating theoretical arguments about causal relations into a corresponding graphical model,
-   * specifying the causal relation of interest and de ning this relation in terms of counterfactual contrasts,
-   * beingabletoconceptuallydistinguishthiscausalrelationfromstatisticalasso- ciation.
+   * specifying the causal relation of interest and defining this relation in terms of counterfactual contrasts,
+   * being able to conceptually distinguish this causal relation from statistical association.
    
 2. use graphical models to devise strategies for identifying the causal relation of interest. For this, students
-   * demonstratethattheyarecapabletoderiveempiricalimplicationsfromagraph- ical causal model,
+   * demonstrate that they are capable to derive empirical implications from a graphical causal model,
    * understand the theoretical assumptions necessary to test these implications,
    * critically evaluate whether these assumptions hold in applied social research.
    

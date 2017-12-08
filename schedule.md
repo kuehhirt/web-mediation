@@ -1,11 +1,11 @@
 
 ## Course schedule
 
-The course, for the most part, builds on the following three textbooks, which-in the course schedule-will be abbreviated as PGJ, HR, and VDW, respectively, when excerpts are designated as readings for class:
+The course, for the most part, builds on the following three textbooks, which––in the course schedule––will be abbreviated as PGJ, HR, and VDW, respectively, when excerpts are designated as readings for class:
 
 Pearl, J., Glymour, M., and Jewell, N. P. (2016). *Causal Inference in Statistics: A Primer.* West Sussex, UK: Wiley = PGJ.
 
-Hernán, M. A. and Robins, J. M. (2018).[*Causal Inference (v. 04-10-17).*]( http://www.hsph.harvard.edu/miguel-hernan/causalinference-book/) Boca Raton, FL: Chapman & Hall/CRC. = HR.
+Hernán, M. A. and Robins, J. M. (2018). [*Causal Inference (v. 04-10-17).*]( http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) Boca Raton, FL: Chapman & Hall/CRC. = HR.
 
 VanderWeele, T. J. (2015). *Explanation in Causal Inference: Methods for Mediation and Interaction.* New York: Oxford University Press = VDW.
 
@@ -36,12 +36,12 @@ Slides
 
 **07. Estimation of total effects I**  
 *Readings*: HR, Ch. 10.1, 10.2, 10.5, 11, 15.1.  
-[Slides]({{ site.baseurl }}/pdfs07Estimation of total effects I)
+[Slides]({{ site.baseurl }}/pdfs/07Estimation of total effects I)
 
 **08. Estimation of total effects II**  
 *Readings*: HR, Ch. 2.4, 12.  
 [Slides]({{ site.baseurl }}/pdfs/08Estimation of total effects II.pdf) | 
-[Lab 1](/web-causal-inference/_labs/01labte.pdf)
+[Lab 1]({{ site.baseurl }}/pdfs/01labte.pdf)
 
 **09. Direct and indirect effects I**  
 *Readings*: VDW, Ch. 1.2.1, 1.3.1, 2.16, 2.2–2.3, 2.13–2.15.  

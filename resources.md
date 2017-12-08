@@ -1,6 +1,14 @@
 
 ## Resources
 
+**Course materials and lab submission on Ilias**  
+<https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
+
+**Q&A on Piazza**  
+*Upcoming courses with handle Q&A through the Piazza website.*
+
+
+#### Other resources
 Causal Diagrams: Draw Your Assumptions Before Your Conclusions by Miguel Hernán  
 <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
 
