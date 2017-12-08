@@ -29,16 +29,8 @@
           <p><a href="https://kuehhirt.github.io/teaching"><i class='fa fa-home'>Other courses</a></p> 
         {% endif %}
 
-          {% if site.github.is_user_page %}
-           <p><a href="index">ABOUT</a><br/>
-             <a href="research">RESEARCH</a><br/>
-             <a href="teaching">TEACHING</a><br/>
-             <a href="contact">CONTACT</a></p>
-
-        <p>
-          <a href="https://twitter.com/droverbytrade"><i class='fa fa-twitter'></i></a>
-          <a href="https://github.com/kuehhirt"><i class='fa fa-github'></i></a>
-        </p>
+        {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
