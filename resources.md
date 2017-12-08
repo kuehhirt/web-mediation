@@ -9,8 +9,8 @@
 
 
 #### Other resources
-Causal Diagrams by Miguel Hernán  
-https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x
+Causal Diagrams by Miguel Hernán</br>
+<https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
 
 DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor  
 <http://www.dagitty.net/>
@@ -24,5 +24,5 @@ Causal mediation analysis by Tyler VanderWeele
 Introduction to causal inference by Maya Petersen and Laura Balzer  
 <http://www.ucbbiostat.com/>
 
-Judea Pearl's blog  
+Judea Pearl's blog</br>
 http://causality.cs.ucla.edu/blog/
