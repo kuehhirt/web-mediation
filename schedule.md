@@ -11,6 +11,8 @@ VanderWeele, T. J. (2015). *Explanation in Causal Inference: Methods for Mediati
 
 Required readings not taken from these books are linked in the course schedule.
 
+* * * 
+
 **01. Introduction and course organization**  
 [Slides]({{ site.baseurl }}/pdfs/01Introduction and course organization.pdf)
 
