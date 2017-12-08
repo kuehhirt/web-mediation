@@ -1,7 +1,7 @@
 
 ## Course schedule
 
-The course, for the most part, builds on the following three textbooks, which––in the course schedule––will be abbreviated as PGJ, HR, and VDW, respectively, when excerpts are designated as readings for class:
+The course, for the most part, builds on the following three textbooks, which---in the course schedule---will be abbreviated as PGJ, HR, and VDW, respectively, when excerpts are designated as readings for class:
 
 Pearl, J., Glymour, M., and Jewell, N. P. (2016). *Causal Inference in Statistics: A Primer.* West Sussex, UK: Wiley = PGJ.
 
@@ -36,7 +36,7 @@ Slides
 
 **07. Estimation of total effects I**  
 *Readings*: HR, Ch. 10.1, 10.2, 10.5, 11, 15.1.  
-[Slides]({{ site.baseurl }}/pdfs/07Estimation of total effects I)
+[Slides]({{ site.baseurl }}/pdfs/07Estimation of total effects I.pdf)
 
 **08. Estimation of total effects II**  
 *Readings*: HR, Ch. 2.4, 12.  
