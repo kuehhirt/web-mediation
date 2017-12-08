@@ -25,4 +25,4 @@ Introduction to causal inference by Maya Petersen and Laura Balzer
 <http://www.ucbbiostat.com/>
 
 Judea Pearl's blog</br>
-http://causality.cs.ucla.edu/blog/
+<http://causality.cs.ucla.edu/blog/>
