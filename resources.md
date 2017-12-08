@@ -5,7 +5,10 @@
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
 
 #### Q&A on Piazza
-*Upcoming courses with handle Q&A through the Piazza website.*
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+
+Find our class page at:  
+<https://piazza.com/uni-koeln.de/winter2018/basismodulsoziologieiii/home>
 
 
 #### Other resources
