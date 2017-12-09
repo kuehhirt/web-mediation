@@ -14,7 +14,7 @@ Required reading not taken from these books are linked in the course schedule.
 * * * 
 
 **01. Introduction and course organization**  
-[Slides]({{ site.baseurl }}/pdfs/01Introduction and course organization.pdf)
+[Slides](https://kuehhirt.github.io/web-causal-inference/pdfs/01Introduction and course organization.pdf)
 
 **02. Statistical relations and their interpretation**  
 *Reading*: PGJ, Ch. 1.1–1.3.10.  
@@ -38,16 +38,16 @@ Slides
 
 **07. Estimation of total effects I**  
 *Reading*: HR, Ch. 10.1, 10.2, 10.5, 11, 15.1.  
-[Slides]({{ site.baseurl }}/pdfs/07Estimation of total effects I.pdf)
+[Slides](https://kuehhirt.github.io/web-causal-inference/pdfs/07Estimation of total effects I.pdf)
 
 **08. Estimation of total effects II**  
 *Reading*: HR, Ch. 2.4, 12.  
-[Slides]({{ site.baseurl }}/pdfs/08Estimation of total effects II.pdf) | 
-[Lab 1]({{ site.baseurl }}/pdfs/01labte.pdf)
+[Slides](https://kuehhirt.github.io/web-causal-inference/pdfs/08Estimation of total effects II.pdf) | 
+[Lab 1](https://kuehhirt.github.io/web-causal-inference/pdfs/01labte.pdf)
 
 **09. Direct and indirect effects I**  
 *Reading*: VDW, Ch. 1.2.1, 1.3.1, 2.16, 2.2–2.3, 2.13–2.15.  
-[Slides]({{ site.baseurl }}/pdfs/09Mediation I.pdf)
+[Slides](https://kuehhirt.github.io/web-causal-inference/pdfs/09Mediation I.pdf)
 
 **10. Direct and indirect effects II**  
 *Reading*: VDW, Ch. 2.1, 2.6, 2.12.  
