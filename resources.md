@@ -1,7 +1,7 @@
 
-## Resources
+## Course resources
 
-### Course materials and lab submission on Ilias
+### Materials and lab submission on Ilias
 <https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
 
 ### Q&A on Piazza
