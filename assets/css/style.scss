@@ -5,5 +5,11 @@
 
 body {
     font-family: "Fira Sans";
+    font-variant: Light;
     color: #23373b
+}
+
+p.italic {
+    font-variant: Light Italic;
+    font-style: italic;
 }
