@@ -5,16 +5,12 @@
 
 body {
     font-family: "Fira Sans";
-    font-variant: Light;
     color: #23373b
 }
 
 
 h1 {
-    font-variant: Black;
-}
-
-p.italic {
-    font-variant: Light Italic;
-    font-style: italic;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 900;
 }
