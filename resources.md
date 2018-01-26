@@ -10,6 +10,8 @@ This term we will be using Piazza for class discussion. The system is highly cat
 Find our class page at:  
 <https://piazza.com/uni-koeln.de/winter2018/basismodulsoziologieiii/home>
 
+Piazza is also available as a costfree app for Android and iOS.
+
 
 ### Other online resources
 Causal Diagrams by Miguel Hernán: <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
@@ -65,7 +67,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 * Manski, C. F. 1995. *Identification Problems in the Social Sciences.* Cambridge, MA: Harvard University Press.
 * Manski, C. F. 2007. *Identification for Prediction and Decision.* Cambridge, MA: Harvard University Press.
 * Murnane, R. J. and Willett, J. B. 2010. *Methods Matter: Improving Causal Inference in Educational and Social Science Research.* Oxford University Press.
-* Peters, J., Janzing, D., and Schölhopf, B. 2017. *Elements of Causal Inference: Foundations and Algorithms.* Cambridge, MA: MIT Press.
+* Peters, J., Janzing, D., and Schölkopf, B. 2017. *Elements of Causal Inference: Foundations and Algorithms.* Cambridge, MA: MIT Press.
 * Rosenbaum, P. R. 2010. *Design of Observational Studies.* New York: Springer.
 * Shadish, W., Cook, T., and Campbell, D. 2002. *Experimental and Quasi-Experimental Designs for Generalized Causal Inference.* Belmont, CA: Wadsworth Cengage Learning.
 * van der Laan, M. and Rose, S. 2011. *Targeted Learning: Causal Inference for Observational and Experimental Data.* New York: Springer.
