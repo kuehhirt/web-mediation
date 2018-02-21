@@ -30,8 +30,12 @@ Introduction to causal inference by Maya Petersen and Laura Balzer:
 
 Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 
+Tutorial on non-parametric causal models by Thomas Richardson:  
+<https://www.microsoft.com/en-us/research/video/tutorial-non-parametric-causal-models/>
 
-### A causality bookshelf
+
+
+### Causality bookshelf
 
 #### Introductions to causal inference:
 * Hernán, M. A. and Robins, J. M. 2018. [*Causal Inference (v. 04-10-17).*]( http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) Boca Raton, FL: Chapman & Hall/CRC.
@@ -58,6 +62,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 * Cartwright, N. 2007. *Hunting Causes and Using Them: Approaches in Philosophy and Economics.*  New York: Cambridge University Press.
 * Illari, P. and Russo, F. 2014. *Causality: Philosophical Theory Meets Scientific Practice.* New York: Oxford University Press. 
 * Morgan, S. L. (ed.) 2013. *Handbook of Causal Analysis for Social Research.* Dordrecht: Springer.
+* Pearl, J. and Mackenzie, D. 2018. *The Book of Why: The New Science of Cause and Effect.* New York: Basic Books.
 
 
 #### Research design and methods:
