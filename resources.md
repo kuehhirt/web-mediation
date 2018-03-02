@@ -1,36 +1,24 @@
 
 ## Course resources
 
-### Materials and lab submission on Ilias
-<https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_2272154.html>
-
-### Q&A on Piazza
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
-
-Find our class page at:  
-<https://piazza.com/uni-koeln.de/winter2018/basismodulsoziologieiii/home>
-
-Piazza is also available as a costfree app for Android and iOS.
-
-
-### Other online resources
+### Online resources
 Causal Diagrams by Miguel Hernán: <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
 
-DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor:  
+DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor:
 <http://www.dagitty.net/>
 
-Causal inference book by Miguel Hernán and James Robins:  
+Causal inference book by Miguel Hernán and James Robins:
 <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>
 
-Causal mediation analysis by Tyler VanderWeele:  
+Causal mediation analysis by Tyler VanderWeele:
 <https://www.hsph.harvard.edu/tyler-vanderweele/tools-and-tutorials/>
 
-Introduction to causal inference by Maya Petersen and Laura Balzer:  
+Introduction to causal inference by Maya Petersen and Laura Balzer:
 <http://www.ucbbiostat.com/>
 
 Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 
-Tutorial on non-parametric causal models by Thomas Richardson:  
+Tutorial on non-parametric causal models by Thomas Richardson:
 <https://www.microsoft.com/en-us/research/video/tutorial-non-parametric-causal-models/>
 
 
@@ -60,7 +48,7 @@ Tutorial on non-parametric causal models by Thomas Richardson:
 #### Causality:
 * Berzuini, C., Dawid, P., and Bernardinelli, L. (ed.) 2012. *Causality: Statistical Perspectives and Applications.* West Sussex, UK: Wiley.
 * Cartwright, N. 2007. *Hunting Causes and Using Them: Approaches in Philosophy and Economics.*  New York: Cambridge University Press.
-* Illari, P. and Russo, F. 2014. *Causality: Philosophical Theory Meets Scientific Practice.* New York: Oxford University Press. 
+* Illari, P. and Russo, F. 2014. *Causality: Philosophical Theory Meets Scientific Practice.* New York: Oxford University Press.
 * Morgan, S. L. (ed.) 2013. *Handbook of Causal Analysis for Social Research.* Dordrecht: Springer.
 * Pearl, J. and Mackenzie, D. 2018. *The Book of Why: The New Science of Cause and Effect.* New York: Basic Books.
 
@@ -76,14 +64,3 @@ Tutorial on non-parametric causal models by Thomas Richardson:
 * Rosenbaum, P. R. 2010. *Design of Observational Studies.* New York: Springer.
 * Shadish, W., Cook, T., and Campbell, D. 2002. *Experimental and Quasi-Experimental Designs for Generalized Causal Inference.* Belmont, CA: Wadsworth Cengage Learning.
 * van der Laan, M. and Rose, S. 2011. *Targeted Learning: Causal Inference for Observational and Experimental Data.* New York: Springer.
-
-
-
-
-
-
-
-
-
-
-
