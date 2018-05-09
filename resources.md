@@ -51,7 +51,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 #### Randomized controlled trials:
 * Deaton, A. and Cartwright, N. (2016). [Understanding and misunderstanding randomized controlled trials.](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine.*
 * Jackson, M. and Cox, D. R. (2013). [The principles of experimental design and their application in sociology.](https://doi.org/10.1146/annurev-soc-071811-145443) *Annual Review of Sociology* 39, pp. 27–49.
-* Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://doi.org/10.1007/s10940-010- 9117-3) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
+* Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://link.springer.com/article/10.1007%2Fs10940-010-9117-3) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
 
 ### Causality bookshelf
 
