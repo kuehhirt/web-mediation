@@ -55,6 +55,11 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 
 ### Causality bookshelf
 
+#### Mediation:
+* Hong, G. 2015. *Causality in a Social World: Moderation, Mediation, and Spill-Over.* West Sussex, UK: Wiley- Blackwell.
+* VanderWeele, T. J. 2015. *Explanation in Causal Inference: Methods for Mediation and Interaction.* New York: Oxford University Press.
+
+
 #### Introductions to causal inference:
 * Hernán, M. A. and Robins, J. M. 2018. [*Causal Inference (v. 04-10-17).*]( http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) Boca Raton, FL: Chapman & Hall/CRC.
 * Imbens, G. W. and Rubin, D. B. 2015. *Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction.* New York: Cambridge University Press.
@@ -68,12 +73,6 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 * Pearl, J. 2009[2000]. *Causality: Models, Reasoning, and Inference.* Second Edition. New York: Cambridge University Press.
 * Sloman, S. 2005. *Causal Models: How People Think About the World and its Alternatives.* Oxford, UK: Oxford University Press.
 * Spirtes, P., Glymour, C., and Scheines, R. 2001[1993]. *Causation, Prediction, and Search.* Second Edition. Cambridge, MA: MIT Press.
-
-
-#### Mediation:
-* Hong, G. 2015. *Causality in a Social World: Moderation, Mediation, and Spill-Over.* West Sussex, UK: Wiley- Blackwell.
-* VanderWeele, T. J. 2015. *Explanation in Causal Inference: Methods for Mediation and Interaction.* New York: Oxford University Press.
-
 
 #### Causality:
 * Berzuini, C., Dawid, P., and Bernardinelli, L. (ed.) 2012. *Causality: Statistical Perspectives and Applications.* West Sussex, UK: Wiley.
