@@ -24,11 +24,11 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 |:-------------------|:-------------|:----------------
 |   [Emsley & Liu](https://econpapers.repec.org/software/bocbocode/s457581.htm)  | Regression | paramed (Stata) |
 |   [Valeri & VanderWeele](http://dx.doi.org/10.1037/a0031034)| Regression | mediation (SAS, SPSS) |
-|   [Tingley et al. 2014](https://www.jstatsoft.org/article/view/v059i05)| Regression | mediation (R, Stata) |
-|   [Daniel et al. 2011](https://www.stata-journal.com/article.html?article=st0238)| g-formula | gformula (Stata) |
-|   [Lin et al. 2017](https://doi.org/10.1097/EDE.0000000000000609)| g-formula | mgformula (SAS) |
-|   [Steen et al. 2017](https://doi.org/10.18637/jss.v076.i11)| Structural mean models | medflex (R) |
-|   [Muthén & Asparouhov 2015](https://doi.org/10.1080/10705511.2014.935843)| SEM | Mplus |
+|   [Tingley et al.](https://www.jstatsoft.org/article/view/v059i05)| Regression | mediation (R, Stata) |
+|   [Daniel et al.](https://www.stata-journal.com/article.html?article=st0238)| g-formula | gformula (Stata) |
+|   [Lin et al.](https://doi.org/10.1097/EDE.0000000000000609)| g-formula | mgformula (SAS) |
+|   [Steen et al.](https://doi.org/10.18637/jss.v076.i11)| Structural mean models | medflex (R) |
+|   [Muthén & Asparouhov](https://doi.org/10.1080/10705511.2014.935843)| SEM | Mplus |
 
 ### Overview articles (from different disciplines)
 
