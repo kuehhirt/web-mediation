@@ -1,4 +1,6 @@
 
 ## About the course
 
-*coming soon*
+This was a 2-day workshop discussing the literature on causal mediation analysis at the [Bremen International Graduate School of Social Sciences](https://www.bigsss-bremen.de/) (BIGSSS) in May 2018.
+
+The course materials are available on [OSF](https://osf.io/ajrsf/). Slides are also linked in the course schedule.

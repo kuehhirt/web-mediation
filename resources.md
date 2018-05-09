@@ -4,24 +4,54 @@
 ### Online resources
 Causal Diagrams by Miguel Hernán: <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
 
-DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor:
+DAGitty: Drawing and analyzing causal diagrams (DAGs) by Johannes Textor:  
 <http://www.dagitty.net/>
 
-Causal inference book by Miguel Hernán and James Robins:
+Causal inference book by Miguel Hernán and James Robins:  
 <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>
 
-Causal mediation analysis by Tyler VanderWeele:
+Causal mediation analysis by Tyler VanderWeele:  
 <https://www.hsph.harvard.edu/tyler-vanderweele/tools-and-tutorials/>
 
-Introduction to causal inference by Maya Petersen and Laura Balzer:
+Introduction to causal inference by Maya Petersen and Laura Balzer:  
 <http://www.ucbbiostat.com/>
 
 Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 
-Tutorial on non-parametric causal models by Thomas Richardson:
-<https://www.microsoft.com/en-us/research/video/tutorial-non-parametric-causal-models/>
+### Selected estimation packages
 
+|      Author    |    Method    |      Software    |
+|:---------------|:-------------|:----------------
+|   [Emsley & Liu](https://econpapers.repec.org/software/bocbocode/s457581.htm)  | Regression | paramed (Stata) |
+|   [Valeri & VanderWeele](http://dx.doi.org/10.1037/a0031034)| Regression | mediation (SAS, SPSS) |
+|   [Tingley et al. 2014](https://www.jstatsoft.org/article/view/v059i05)| Regression | mediation (R, Stata) |
+|   [Daniel et al. 2014](https://www.stata-journal.com/article.html?article=st0238)| g-formula | gformula (Stata) |
+|   [Lin et al. 2017](https://doi.org/10.1097/EDE.0000000000000609)| g-formula | mgformula (SAS) |
+|   [Steen et al. 2017](https://doi.org/10.18637/jss.v076.i11)| Structural mean models | medflex (R) |
+|   [Muthén & Asparouhov 2015](https://doi.org/10.1080/10705511.2014.935843)| SEM | Mplus |
 
+### Overview articles (from different disciplines)
+
+#### Mediation:
+* Keele, L. (2015). [Causal mediation analysis: Warning! Assumptions ahead.](https://doi.org/10.1177/1098214015594689) *American Journal of Evaluation* 36 (4), pp. 500-513.
+* Knight, C. and Winship, C. (2013). [The causal implications of mechanistic thinking: Identification using directed acyclic graphs (DAGs).](https://doi.org/10.1007/978-94-007-6094-3_14) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. Dordrecht u.a.: Springer, pp. 275-299.
+* VanderWeele, T. J. (2016). [Mediation analysis: A practitioner's guide.](https://doi.org/10.1146/annurev-publhealth-032315-021402) *Annual Review of Public Health.* 37, pp. 17-32.
+
+#### Causal inference:
+* Gangl, M. (2010). [Causal Inference in Sociological Research.](https://doi.org/10.1146/annurev.soc.012809.102702) *Annual Review of Sociology* 36, pp. 21– 47.
+* Imbens, G. W. and Wooldridge, J. M. (2009). [Recent Developments in the Econometrics of Program Evaluation.](https://doi.org/10.1257/jel.47.1.5) *Journal of Economic Literature* 47 (1), pp. 5–86.
+* Keele, L. (2015). [The statistics of causal inference: A view from political methodology.](https://doi.org/10.1093/pan/mpv007) *Political Analysis* 23 (3), pp. 313–335.
+* Petersen, M. L. and Laan, M. J. van der (2014). [Causal models and learning from data: Integrating causal modeling and statistical estimation.](https://doi.org/10.1097/EDE.0000000000000078) *Epidemiology* 25 (3), pp. 418–426.
+
+#### Graphical causal models
+* Elwert, F. (2013). [Graphical causal models.](https://doi.org/10.1007/978-94-007-6094-3_13) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. New York: Springer, pp. 245–272.
+* Glymour, M. M. and Greenland, S. (2008). Causal diagrams. In: *Modern Epidemiology. Third Edition.* Ed. by Rothman, K. J., Greenland, S., and Lash, T. L. Philadelphia, PA: Lippincott Williams & Wilkins, pp. 183–209.
+* Steiner, P. M. et al. (2017). [Graphical models for quasi-experimental designs.](https://doi.org/10.1177/0049124115582272) *Sociological Methods & Research* 46 (2), pp. 155–188. 
+
+#### Randomized controlled trials
+* Deaton, A. and Cartwright, N. (2016). [Understanding and misunderstanding randomized controlled trials.](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine.* <>
+* Jackson, M. and Cox, D. R. (2013). [The principles of experimental design and their application in sociology.](https://doi.org/10.1146/annurev-soc-071811-145443) *Annual Review of Sociology* 39, pp. 27–49.
+* Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://doi.org/10.1007/s10940-010- 9117-3.) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
 
 ### Causality bookshelf
 
@@ -48,7 +78,7 @@ Tutorial on non-parametric causal models by Thomas Richardson:
 #### Causality:
 * Berzuini, C., Dawid, P., and Bernardinelli, L. (ed.) 2012. *Causality: Statistical Perspectives and Applications.* West Sussex, UK: Wiley.
 * Cartwright, N. 2007. *Hunting Causes and Using Them: Approaches in Philosophy and Economics.*  New York: Cambridge University Press.
-* Illari, P. and Russo, F. 2014. *Causality: Philosophical Theory Meets Scientific Practice.* New York: Oxford University Press.
+* Illari, P. and Russo, F. 2014. *Causality: Philosophical Theory Meets Scientific Practice.* New York: Oxford University Press. 
 * Morgan, S. L. (ed.) 2013. *Handbook of Causal Analysis for Social Research.* Dordrecht: Springer.
 * Pearl, J. and Mackenzie, D. 2018. *The Book of Why: The New Science of Cause and Effect.* New York: Basic Books.
 
