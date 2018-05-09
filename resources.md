@@ -38,20 +38,20 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 * VanderWeele, T. J. (2016). [Mediation analysis: A practitioner's guide.](https://doi.org/10.1146/annurev-publhealth-032315-021402) *Annual Review of Public Health.* 37, pp. 17-32.
 
 #### Causal inference:
-* Gangl, M. (2010). [Causal Inference in Sociological Research.](https://doi.org/10.1146/annurev.soc.012809.102702) *Annual Review of Sociology* 36, pp. 21– 47.
-* Imbens, G. W. and Wooldridge, J. M. (2009). [Recent Developments in the Econometrics of Program Evaluation.](https://doi.org/10.1257/jel.47.1.5) *Journal of Economic Literature* 47 (1), pp. 5–86.
+* Gangl, M. (2010). [Causal inference in sociological research.](https://doi.org/10.1146/annurev.soc.012809.102702) *Annual Review of Sociology* 36, pp. 21– 47.
+* Imbens, G. W. and Wooldridge, J. M. (2009). [Recent developments in the econometrics of program evaluation.](https://doi.org/10.1257/jel.47.1.5) *Journal of Economic Literature* 47 (1), pp. 5–86.
 * Keele, L. (2015). [The statistics of causal inference: A view from political methodology.](https://doi.org/10.1093/pan/mpv007) *Political Analysis* 23 (3), pp. 313–335.
 * Petersen, M. L. and Laan, M. J. van der (2014). [Causal models and learning from data: Integrating causal modeling and statistical estimation.](https://doi.org/10.1097/EDE.0000000000000078) *Epidemiology* 25 (3), pp. 418–426.
 
-#### Graphical causal models
+#### Graphical causal models:
 * Elwert, F. (2013). [Graphical causal models.](https://doi.org/10.1007/978-94-007-6094-3_13) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. New York: Springer, pp. 245–272.
 * Glymour, M. M. and Greenland, S. (2008). Causal diagrams. In: *Modern Epidemiology. Third Edition.* Ed. by Rothman, K. J., Greenland, S., and Lash, T. L. Philadelphia, PA: Lippincott Williams & Wilkins, pp. 183–209.
 * Steiner, P. M. et al. (2017). [Graphical models for quasi-experimental designs.](https://doi.org/10.1177/0049124115582272) *Sociological Methods & Research* 46 (2), pp. 155–188. 
 
-#### Randomized controlled trials
-* Deaton, A. and Cartwright, N. (2016). [Understanding and misunderstanding randomized controlled trials.](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine.* <>
+#### Randomized controlled trials:
+* Deaton, A. and Cartwright, N. (2016). [Understanding and misunderstanding randomized controlled trials.](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine.*
 * Jackson, M. and Cox, D. R. (2013). [The principles of experimental design and their application in sociology.](https://doi.org/10.1146/annurev-soc-071811-145443) *Annual Review of Sociology* 39, pp. 27–49.
-* Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://doi.org/10.1007/s10940-010- 9117-3.) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
+* Sampson, R. J. (2010). [Gold standard myths: Observations on the experimental turn in quantitative criminology.](https://doi.org/10.1007/s10940-010- 9117-3) *Journal of Quantitative Criminology* 26 (4), pp. 489–500.
 
 ### Causality bookshelf
 
