@@ -5,4 +5,4 @@ This was a 2-day workshop discussing the literature on causal mediation analysis
 
 The course materials are available on [OSF](https://osf.io/ajrsf/). Slides are also linked in the course schedule.
 
-![](weser.jpg)
+![](/images/weser.jpg)
