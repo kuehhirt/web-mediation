@@ -6,6 +6,6 @@ This was a 2-day workshop discussing the literature on causal mediation analysis
 The course materials are available on [OSF](https://osf.io/ajrsf/). Slides are also linked in the course schedule.
 
 <figure>
-    <img src="/assets/images/image-filename-1.jpg">
-    <figcaption>Weser with Weserstadion, Osterdeich, Bremen, Germany.</figcaption>
+    <img src="/images/weser.jpg">
+    <figcaption>*Weser with Weserstadion, Osterdeich, Bremen, Germany.*</figcaption>
 </figure>
