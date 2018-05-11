@@ -33,6 +33,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 ### Overview articles (from different disciplines)
 
 #### Mediation:
+* Green, D. P., Ha, S. E., and Bullock, John G. (2010). [Enough already about “black box” experiments: Studying mediation is more difficult than most scholars suppose.](https://doi.org/10.1177/0002716209351526) *Annals of the American Academy of Political and Social Science* 628 (1), pp. 200-2008.
 * Keele, L. (2015). [Causal mediation analysis: Warning! Assumptions ahead.](https://doi.org/10.1177/1098214015594689) *American Journal of Evaluation* 36 (4), pp. 500-513.
 * Knight, C. and Winship, C. (2013). [The causal implications of mechanistic thinking: Identification using directed acyclic graphs (DAGs).](https://doi.org/10.1007/978-94-007-6094-3_14) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. Dordrecht u.a.: Springer, pp. 275-299.
 * VanderWeele, T. J. (2016). [Mediation analysis: A practitioner's guide.](https://doi.org/10.1146/annurev-publhealth-032315-021402) *Annual Review of Public Health.* 37, pp. 17-32.
@@ -46,6 +47,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 #### Graphical causal models:
 * Elwert, F. (2013). [Graphical causal models.](https://doi.org/10.1007/978-94-007-6094-3_13) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. New York: Springer, pp. 245–272.
 * Glymour, M. M. and Greenland, S. (2008). Causal diagrams. In: *Modern Epidemiology. Third Edition.* Ed. by Rothman, K. J., Greenland, S., and Lash, T. L. Philadelphia, PA: Lippincott Williams & Wilkins, pp. 183–209.
+* Rohrer, J. (2018). [Thinking clearly about correlations and causation: Graphical causal models for observational data.](https://doi.org/10.1177/2515245917745629) *Advances in Methods and Practices in Psychological Science* 1 (1), pp. 27-42.
 * Steiner, P. M. et al. (2017). [Graphical models for quasi-experimental designs.](https://doi.org/10.1177/0049124115582272) *Sociological Methods & Research* 46 (2), pp. 155–188. 
 
 #### Randomized controlled trials:
