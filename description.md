@@ -4,5 +4,5 @@ Investigating causal relations often leads to questions regarding the processes 
 
 This course uses graphical causal models and counterfactual definitions of direct and indirect effects to make transparent the conditions under which mediation analysis yields valid conclusions. In addition to classic approaches to mediation, the course also introduces modern regression-based methods of causal mediation analysis as well as formal sensitivity analysis. The course concludes with a discussion of further topics in causal inference and mediation analysis (e.g., instrumental variables, multiple mediators, alternative estimation approaches).
 
-<img src="{{ baseurl }}/web-mediation/images/dusk.jpg" width="100%">
+<img src="{{ baseurl }}/web-mediation/images/bremer.jpg" width="100%">
 *Bremer Häuser, Viertel, Bremen, Germany*
