@@ -33,7 +33,7 @@ Judea Pearl's blog: <http://causality.cs.ucla.edu/blog/>
 ### Overview articles (from different disciplines)
 
 #### Mediation:
-* Green, D. P., Ha, S. E., and Bullock, John G. (2010). [Enough already about “black box” experiments: Studying mediation is more difficult than most scholars suppose.](https://doi.org/10.1177/0002716209351526) *Annals of the American Academy of Political and Social Science* 628 (1), pp. 200-2008.
+* Green, D. P., Ha, S. E., and Bullock, J. G. (2010). [Enough already about “black box” experiments: Studying mediation is more difficult than most scholars suppose.](https://doi.org/10.1177/0002716209351526) *Annals of the American Academy of Political and Social Science* 628 (1), pp. 200-208.
 * Keele, L. (2015). [Causal mediation analysis: Warning! Assumptions ahead.](https://doi.org/10.1177/1098214015594689) *American Journal of Evaluation* 36 (4), pp. 500-513.
 * Knight, C. and Winship, C. (2013). [The causal implications of mechanistic thinking: Identification using directed acyclic graphs (DAGs).](https://doi.org/10.1007/978-94-007-6094-3_14) In: *Handbook of Causal Analysis for Social Research.* Ed. by Morgan, S. L. Dordrecht u.a.: Springer, pp. 275-299.
 * VanderWeele, T. J. (2016). [Mediation analysis: A practitioner's guide.](https://doi.org/10.1146/annurev-publhealth-032315-021402) *Annual Review of Public Health.* 37, pp. 17-32.
