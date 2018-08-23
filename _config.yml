@@ -1,4 +1,4 @@
 title: Causal mediation analysis
 description: Course website
-theme: jekyll-theme-minimal
+remote_theme: qwtel/hydejack
 baseurl: /web-mediation
