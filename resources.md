@@ -1,5 +1,8 @@
-
-## Course resources
+---
+layout: category
+title: Resources
+sidebar_sort_order: 4
+---
 
 ### Online resources
 Causal Diagrams by Miguel Hernán: <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>

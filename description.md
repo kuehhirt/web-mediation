@@ -1,4 +1,8 @@
-## Course content
+---
+layout: category
+title: Content
+sidebar_sort_order: 2
+---
 
 Investigating causal relations often leads to questions regarding the processes and mechanisms underlying a specific effect. Is an effect mediated by one or more other variables? In practice, this question is frequently assessed by analyzing changes in regression coefficients after adding the putative mediators to the model. The modern literature on causal inference demonstrates, however, that this approach yields valid conclusions regarding mediation only under specific substantive assumptions that are rarely made explicit in applied research.
 

@@ -1,4 +1,9 @@
-title: Causal mediation analysis
-description: Course website
-theme: jekyll-theme-minimal
-baseurl: /web-mediation
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+remote_theme:     fongandrew/hydeout
+
+# Setup
+title:            Course website
+tagline:          
+description:      Causal mediation analysis

@@ -1,5 +1,8 @@
-
-## Course schedule
+---
+layout: category
+title: Schedule
+sidebar_sort_order: 3
+---
 
 ### Thursday, May 3, 2018 (9:30am-4:30pm)
 
